@@ -1,0 +1,6 @@
+[cache]
+    dir = /home/himanshu/.cache/dvc
+[core]
+    remote = mylocal
+['remote "mylocal"']
+    url = ../local_s3
